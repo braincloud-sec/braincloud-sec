@@ -1,8 +1,6 @@
 # Hello, I'm Brian!
 <a href="https://www.linkedin.com/in/brian-santoso/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a Seasoned Business/Systems Analyst offering 3 years of Business/Systems Analyst industry success. Expert on business andsystems requirements, user acceptance testing and end-user training.
 
 ## Objective
